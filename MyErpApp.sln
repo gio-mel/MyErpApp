@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyErp.Application", "MyErp.Application\MyErp.Application.csproj", "{BB3F8121-064B-4F03-8240-39C1F05C2B87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyErp.Business", "MyErp.Business\MyErp.Business.csproj", "{8FA4349E-2445-449F-926D-313A2D36EC94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyErp.DAL", "MyErp.DAL\MyErp.DAL.csproj", "{AC7D30FF-27BF-442C-BFA0-1806BF03E28D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyErp.PrintService", "MyErp.PrintService\MyErp.PrintService.csproj", "{714D2855-E70C-4155-A0AF-1752C44ED80C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyErp.Business.Interfaces", "MyErp.Business.Interfaces\MyErp.Business.Interfaces.csproj", "{43AC9BFE-3821-46E2-A208-92A1133A77B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB3F8121-064B-4F03-8240-39C1F05C2B87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB3F8121-064B-4F03-8240-39C1F05C2B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB3F8121-064B-4F03-8240-39C1F05C2B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB3F8121-064B-4F03-8240-39C1F05C2B87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FA4349E-2445-449F-926D-313A2D36EC94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FA4349E-2445-449F-926D-313A2D36EC94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FA4349E-2445-449F-926D-313A2D36EC94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FA4349E-2445-449F-926D-313A2D36EC94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC7D30FF-27BF-442C-BFA0-1806BF03E28D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC7D30FF-27BF-442C-BFA0-1806BF03E28D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC7D30FF-27BF-442C-BFA0-1806BF03E28D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC7D30FF-27BF-442C-BFA0-1806BF03E28D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{714D2855-E70C-4155-A0AF-1752C44ED80C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{714D2855-E70C-4155-A0AF-1752C44ED80C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{714D2855-E70C-4155-A0AF-1752C44ED80C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{714D2855-E70C-4155-A0AF-1752C44ED80C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43AC9BFE-3821-46E2-A208-92A1133A77B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43AC9BFE-3821-46E2-A208-92A1133A77B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43AC9BFE-3821-46E2-A208-92A1133A77B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43AC9BFE-3821-46E2-A208-92A1133A77B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

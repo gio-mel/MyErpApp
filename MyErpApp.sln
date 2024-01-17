@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyErp.PrintService", "MyErp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyErp.Business.Interfaces", "MyErp.Business.Interfaces\MyErp.Business.Interfaces.csproj", "{43AC9BFE-3821-46E2-A208-92A1133A77B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyErp.Application.Models", "MyErp.Application.Models\MyErp.Application.Models.csproj", "{BF5A0C94-4982-4907-A6C5-60EC7C51AB58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{43AC9BFE-3821-46E2-A208-92A1133A77B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43AC9BFE-3821-46E2-A208-92A1133A77B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43AC9BFE-3821-46E2-A208-92A1133A77B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF5A0C94-4982-4907-A6C5-60EC7C51AB58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF5A0C94-4982-4907-A6C5-60EC7C51AB58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF5A0C94-4982-4907-A6C5-60EC7C51AB58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF5A0C94-4982-4907-A6C5-60EC7C51AB58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
